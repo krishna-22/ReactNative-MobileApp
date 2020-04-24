@@ -10,6 +10,8 @@ npm install react-native-vector-icons
 npm uninstall react-navigation 
 npm install @react-navigation/native
 npm install @react-navigation/drawer 
+npm install @react-navigation/bottom-tabs
+// after installing navs only ,type below command
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view 
 npm install @react-navigation/stack
 npm install @react-navigation/stack 
